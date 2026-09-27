@@ -4,11 +4,7 @@
 
 ![](AR_Glass_002.png)
 
-![](001.png)
-
-![](002.png)
-
-![](003.png)
+<img src="001.png" width="20%"> <img src="002.png" width="20%"> <img src="003.png" width="20%">
 
 
 ## 한 줄 컨셉
