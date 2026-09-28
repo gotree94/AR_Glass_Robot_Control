@@ -8,6 +8,8 @@
 
 <img src="001.png" width="40%"> <img src="002.png" width="15%"> <img src="003.png" width="30%">
 
+* 투명 LCD
+* https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91
 
 ## 한 줄 컨셉
 저비용 AR 안경 웨어러블로 숙련공의 동작(감각)을 캡처해 협동로봇에 전수하고,
