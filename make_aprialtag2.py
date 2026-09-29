@@ -1,3 +1,6 @@
+# pip install opencv-contrib-python numpy pillow ezdxf
+
+
 import cv2
 import numpy as np
 from PIL import Image
