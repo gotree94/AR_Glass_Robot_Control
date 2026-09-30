@@ -8,7 +8,7 @@
 
 ![](AR_Glass_003.png)
 
-<img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
+---
 
 ## 한 줄 컨셉
 저비용 AR 안경 웨어러블로 숙련공의 동작(감각)을 캡처해 협동로봇에 전수하고,
@@ -24,18 +24,20 @@
 - (확장) 안경 마이크 → 음성 명령, (확장) 단안 미니 디스플레이 → AR 오버레이
 
 ---
+## Tag Glove
 
-## Version 0.1
+### Version 0.1
 <img src="Wirst_V0.1.png" width="250">
 
-## Version 0.2
+### Version 0.2
 <img src="Wirst_V0.2_L.png" height="200"> <img src="Wirst_V0.2_R.png" height="200">
-
 
 <img src="Aprial_001.png" width="250"> <img src="Aprial_002.png" width="250"> <img src="Aprial_003.png" width="250">
 
+---
+## AR Glass
 
-
+<img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
 
 ---
 
