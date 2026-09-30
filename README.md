@@ -40,8 +40,7 @@
 * http://192.168.0.137/
 * http://192.168.0.69/
 
-
-![](cam_test1.gif)
+<img src="cam_test1.gif" width="200%">
 
 
 ---
