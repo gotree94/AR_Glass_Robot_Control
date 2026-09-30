@@ -1,7 +1,7 @@
 # AR 안경 기반 협동로봇 Teleop/VLA 프로젝트 — 정리본
 
 * 투명 LCD
-* https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91
+* [유튜브링크](https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91)
 
 ![](AR_Glass_001.png)
 
@@ -23,6 +23,19 @@
 - 손목 / 팔꿈치(또는 하박 중앙)에 AprilTag 부착
 - 관절 지점에 MPU6050(IMU) 추가 → 비전-IMU 센서 퓨전으로 occlusion 보완, 샘플링레이트 향상
 - (확장) 안경 마이크 → 음성 명령, (확장) 단안 미니 디스플레이 → AR 오버레이
+
+---
+
+## Version 0.1
+![](Wirst_V0.1.png)
+
+## Version 0.2
+![](Wirst_V0.2_L.png) ![](Wirst_V0.2_R.png)
+
+
+---
+
+
 
 ## 계층 구조 (L1~L5)
 
