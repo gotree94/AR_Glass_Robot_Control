@@ -23,9 +23,11 @@
 ## Tag Glove (70mm * 70mm)
 
 ### Version 0.1
+   * 제작시 한쪽이 부러지는 문제와, 착용성이 좋지 않음.
 <img src="Wirst_V0.1.png" width="250">
 
 ### Version 0.2
+   * 오른쪽과 왼쪽으로 분리 : 착용의 편의성 개선
 <img src="Wirst_V0.2_L.png" height="200"> <img src="Wirst_V0.2_R.png" height="200">
 
 <img src="Aprial_001.png" width="250"> <img src="Aprial_002.png" width="250"> <img src="Aprial_003.png" width="250">
