@@ -8,7 +8,7 @@
 
 ![](AR_Glass_003.png)
 
-<img src="001.png" height="250"> <img src="002.png" height="250"> <img src="003.png" height="250">
+<img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
 
 ## 한 줄 컨셉
 저비용 AR 안경 웨어러블로 숙련공의 동작(감각)을 캡처해 협동로봇에 전수하고,
