@@ -33,7 +33,7 @@
 ---
 ## AR Glass
 
-<img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
+<img src="001.png" height="100"> <img src="002.png" height="100"> <img src="003.png" height="100">
 
 * http://192.168.0.137/
 * http://192.168.0.69/
