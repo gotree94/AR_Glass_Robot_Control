@@ -67,7 +67,7 @@
 | L4. VLA | 언어·시선 명령 → 작업 지정 | STT(Whisper) + VLM grounding, language-conditioned policy |
 | L5. Orchestration | 로봇 인식·능력 판단·작업 배분 | 로봇 AprilTag ID 태깅, VLM 기반 capability reasoning, BT/ROS2 action 서버 |
 
-L1~L2만으로도 독립적인 프로젝트(저비용 웨어러블 teleop 리그)가 성립하며, L3~L5는 순차적 확장.
+L1 ~ L2만으로도 독립적인 프로젝트(저비용 웨어러블 teleop 리그)가 성립하며, L3 ~ L5는 순차적 확장.
 
 ## 로드맵
 - Phase 0: 손목 1개 지점, PoC(정확도·지연시간 측정)
