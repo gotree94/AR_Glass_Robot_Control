@@ -26,10 +26,10 @@
 ---
 
 ## Version 0.1
-<img src="Wirst_V0.1.png" width="350">
+<img src="Wirst_V0.1.png" width="250">
 
 ## Version 0.2
-<img src="Wirst_V0.2_L.png" height="300"> <img src="Wirst_V0.2_R.png" height="300">
+<img src="Wirst_V0.2_L.png" height="200"> <img src="Wirst_V0.2_R.png" height="200">
 
 
 <img src="Aprial_001.png" width="250"> <img src="Aprial_002.png" width="250"> <img src="Aprial_003.png" width="250">
