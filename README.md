@@ -29,7 +29,7 @@
 <img src="Wirst_V0.1.png" width="350">
 
 ## Version 0.2
-<img src="Wirst_V0.2_L.png" height="400"> <img src="Wirst_V0.2_R.png" height="400">
+<img src="Wirst_V0.2_L.png" height="300"> <img src="Wirst_V0.2_R.png" height="300">
 
 
 ---
