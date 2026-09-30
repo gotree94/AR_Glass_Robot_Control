@@ -1,7 +1,5 @@
 # AR 안경 기반 협동로봇 Teleop/VLA 프로젝트
 
-* 투명 LCD : [유튜브링크](https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91)
-
 ![](AR_Glass_001.png)
 
 <img src="AR_Glass_002.png" height="335"> <img src="AR_Glass_003.png" height="335">
@@ -36,6 +34,10 @@
 ## AR Glass
 
 <img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
+
+---
+## 투명 LCD 
+- [유튜브링크](https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91)
 
 ---
 
