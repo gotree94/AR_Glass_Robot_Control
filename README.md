@@ -5,7 +5,7 @@
 ![](AR_Glass_001.png)
 
 
-<img src="AR_Glass_002.png" height="300"> <img src="AR_Glass_003.png" height="300">
+<img src="AR_Glass_002.png" height="350"> <img src="AR_Glass_003.png" height="350">
 ---
 
 ## 한 줄 컨셉
