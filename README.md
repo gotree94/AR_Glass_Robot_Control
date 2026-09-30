@@ -27,10 +27,10 @@
 ---
 
 ## Version 0.1
-![](Wirst_V0.1.png)
+<img src="Wirst_V0.1.png" width="350">
 
 ## Version 0.2
-![](Wirst_V0.2_L.png) ![](Wirst_V0.2_R.png)
+<img src="Wirst_V0.2_L.png" width="350"> <img src="Wirst_V0.2_R.png" width="350">
 
 
 ---
