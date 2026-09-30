@@ -1,4 +1,4 @@
-# AR 안경 기반 협동로봇 Teleop/VLA 프로젝트 — 정리본
+# AR 안경 기반 협동로봇 Teleop/VLA 프로젝트
 
 * 투명 LCD : [유튜브링크](https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91)
 
