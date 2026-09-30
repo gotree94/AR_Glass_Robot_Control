@@ -32,15 +32,12 @@
 <img src="Wirst_V0.2_L.png" height="300"> <img src="Wirst_V0.2_R.png" height="300">
 
 
-![](Aprial_001.png)
+<img src="Aprial_001.png" width="250"> <img src="Aprial_002.png" width="250"> <img src="Aprial_003.png" width="250">
 
-![](Aprial_002.png)
 
-![](Aprial_003.png)
+
 
 ---
-
-
 
 ## 계층 구조 (L1~L5)
 
