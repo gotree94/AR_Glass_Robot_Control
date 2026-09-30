@@ -35,6 +35,10 @@
 
 <img src="001.png" height="200"> <img src="002.png" height="200"> <img src="003.png" height="200">
 
+* http://192.168.0.137/
+* http://192.168.0.69/
+
+
 ---
 ## 투명 LCD 
 - [유튜브링크](https://www.youtube.com/results?search_query=%ED%88%AC%EB%AA%85LCD+%EC%9E%90%EC%9E%91)
