@@ -20,7 +20,7 @@
 - (확장) 안경 마이크 → 음성 명령, (확장) 단안 미니 디스플레이 → AR 오버레이
 
 ---
-## Tag Glove
+## Tag Glove (70mm * 70mm)
 
 ### Version 0.1
 <img src="Wirst_V0.1.png" width="250">
