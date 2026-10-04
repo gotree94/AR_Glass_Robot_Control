@@ -68,7 +68,7 @@
 
 [esp32cam_dual_viewer.py](esp32cam_dual_viewer.py)
 
-```
+```python
 #!/usr/bin/env python3
 """
 ESP32-CAM 2대 MJPEG 스트림을 하나의 Tkinter UI에 표시
@@ -341,7 +341,7 @@ python esp32cam_dual_viewer.py
 - 회전은 `CAMERAS`의 `rotate`(시계 방향 +, 반시계 방향 -, 90 단위)로 설정합니다.
 
 
-```
+```python
 #!/usr/bin/env python3
 """
 ESP32-CAM 2대 MJPEG 스트림을 하나의 Tkinter UI에 표시 + AprilTag(36h11) 인식
