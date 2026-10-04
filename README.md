@@ -59,7 +59,7 @@
 
 <img src="Glass_001.jpg" height="150"> <img src="Glass_002.jpg" height="150"> <img src="Glass_003.jpg" height="150"> <img src="Glass_004.jpg" height="150">
 
-
+![](Glass_test.gif)
 
 ---
 ## 투명 LCD 
