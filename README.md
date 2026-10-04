@@ -20,7 +20,7 @@
 - (확장) 안경 마이크 → 음성 명령, (확장) 단안 미니 디스플레이 → AR 오버레이
 
 ---
-## Tag Glove (70mm * 70mm)
+## 1. Tag Glove (70mm * 70mm)
 
 ### Version 0.1
 
@@ -36,8 +36,11 @@
 
 <img src="Aprial_001.png" width="250"> <img src="Aprial_002.png" width="250"> <img src="Aprial_003.png" width="250">
 
+<img src="cam-001.png" height="200"> <img src="cam-002.png" height="200"> <img src="cam-003.png" height="200"> <img src="cam-004.png" height="200">
+
 ---
-## AR Glass
+
+## 2. AR Glass
 
 <img src="001.png" height="100"> <img src="002.png" height="100"> <img src="003.png" height="100">
 
@@ -49,8 +52,6 @@
    * http://192.168.0.69/
 
 <img src="cam_test1.gif" width="200%">
-
-<img src="cam-001.png" height="200"> <img src="cam-002.png" height="200"> <img src="cam-003.png" height="200"> <img src="cam-004.png" height="200">
 
 <img src="Glass_001.jpg" height="150"> <img src="Glass_002.jpg" height="150"> <img src="Glass_003.jpg" height="150"> <img src="Glass_004.jpg" height="150">
 
