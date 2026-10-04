@@ -50,7 +50,7 @@
 
 <img src="cam_test1.gif" width="200%">
 
-<img src="cam-001.png" height="110"> <img src="cam-002.png" height="110"> <img src="cam-003.png" height="110"> <img src="cam-004.png" height="110">
+<img src="cam-001.png" height="200"> <img src="cam-002.png" height="200"> <img src="cam-003.png" height="200"> <img src="cam-004.png" height="200">
 
 
 
